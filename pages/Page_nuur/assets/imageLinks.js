@@ -1,0 +1,10 @@
+export const image_Rectangle_2_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/63c3/4663/7a7c277c6ac081b07356756ccfd3dd6e";
+export const image_Rectangle_10_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9c84/8d0f/0500c9d31a9cad731c606251cad5df8b";
+export const image_Rectangle_12_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9c84/8d0f/0500c9d31a9cad731c606251cad5df8b";
+export const image_Rectangle_14_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9c84/8d0f/0500c9d31a9cad731c606251cad5df8b";
+export const image_Rectangle_17_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9c84/8d0f/0500c9d31a9cad731c606251cad5df8b";
+export const image_loupe_1_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/3dd0/f9bc/568a18d4d932aa1f3b191d79a54da9e1";
+export const image_Rectangle_25_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9c84/8d0f/0500c9d31a9cad731c606251cad5df8b";
+export const image_Rectangle_27_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9c84/8d0f/0500c9d31a9cad731c606251cad5df8b";
+export const image_Rectangle_29_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9c84/8d0f/0500c9d31a9cad731c606251cad5df8b";
+export const image_Rectangle_32_link = "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/9c84/8d0f/0500c9d31a9cad731c606251cad5df8b";
